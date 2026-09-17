@@ -1,2 +1,1 @@
 Mein erstes Git-Projekt
-Dies ist die zweite Zeile.
